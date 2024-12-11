@@ -1,0 +1,51 @@
+{
+  "name": "learn.elecfreaks.com",
+  "version": "0.0.0",
+  "private": false,
+  "license": "MIT",
+  "repository": "https://github.com/elecfreaks/learn.elecfreaks.com.git",
+  "scripts": {
+    "docusaurus": "docusaurus",
+    "start": "docusaurus start --host 0.0.0.0",
+    "start:en": "docusaurus start --host 0.0.0.0 --locale en",
+    "start:zh-hans": "docusaurus start --host 0.0.0.0 --locale zh-Hans",
+    "build": "docusaurus build",
+    "swizzle": "docusaurus swizzle",
+    "deploy": "docusaurus deploy",
+    "clear": "docusaurus clear",
+    "serve": "docusaurus serve",
+    "write-translations:en": "docusaurus write-translations --locale en",
+    "write-heading-ids": "docusaurus write-heading-ids",
+    "prepare": "husky install",
+    "typecheck": "tsc"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^2.1.0",
+    "@docusaurus/preset-classic": "^2.1.0",
+    "@mdx-js/react": "^1.6.22",
+    "clsx": "^1.1.1",
+    "prism-react-renderer": "^1.3.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.1.2",
+    "@commitlint/config-conventional": "^17.1.0",
+    "@docusaurus/module-type-aliases": "^2.1.0",
+    "@tsconfig/docusaurus": "^1.0.5",
+    "husky": "^8.0.0",
+    "typescript": "^4.6.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.5%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
