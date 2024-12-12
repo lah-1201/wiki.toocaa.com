@@ -18,5 +18,5 @@ jobs:
         
       - name: Deploy to https://www.wiki.toocaa.com/
         run: |
-            echo "Destination path: ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SERVER_PATH }}"
-       # run: rsync -avz ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SERVER_PATH }}
+            echo "Destination path: ${{ secrets.SSH_USER }} ${{ secrets.SSH_HOST }} ${{ secrets.SERVER_PATH }}"
+
