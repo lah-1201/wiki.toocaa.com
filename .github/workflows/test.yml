@@ -1,15 +1,17 @@
-name: remote ssh command
-on: [push]
+name: Deploy
+
+on: workflow_dispatch
+
 jobs:
-  build:
-    name: Build
+  deploy:
+    name: Deploy to server
     runs-on: ubuntu-latest
     steps:
-      - name: executing remote ssh commands using password
-        uses: appleboy/ssh-action@v1.2.0
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          host: ${{ secrets.SSH_HOST}}
-          username: ${{ secrets.SSH_USER}}
-          password: Luwei19881211!
-          port: 21
-          script: whoami
+          node-version: 16
+          cache: yar
+          
+      - name: Adding known hosts
+        run: ssh  ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}
