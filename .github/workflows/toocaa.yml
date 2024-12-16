@@ -27,5 +27,16 @@ jobs:
       - name: Adding known hosts
         run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
         
-      - name: Deploy to https://www.wiki.toocaa.com/
-        run: rsync -avz ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${{ secrets.SERVER_PATH }}
+      - name: scp ssh pipelines
+        uses: cross-the-world/ssh-scp-ssh-pipelines@latest
+        env:
+          LASTSSH: "Doing something after copying"
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          user: ${{ secrets.SSH_USER }}
+          pass: ${{ secrets.DEPLOY_PASSWORD }}
+          scp: |
+            ./build/* => /var/www/html/store/toocaa/
+          last_ssh: |
+            echo $LASTSSH
+            ls -l
