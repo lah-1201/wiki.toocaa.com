@@ -1,15 +1,16 @@
-# Unpacking Inspection
-![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/1212.png)
+<h1 id="63419663">为你的创意而造</h1>
+<font style="color:#000000;">创造，是每个人追求美好生活的渴望和信念。</font>
 
-## Consumable Parts Pack list
-| Type | Size | Quantity |
-| :---: | :---: | :---: |
-| Linden Wood Board | 210mm*297mm*3mm  | 1 |
-| Gold Aluminum Nameplate | 50mm*25mm | 1 |
-| Sky Blue Aluminum Nameplate | | 1 |
-| Stainless Steel Nameplate | | 1 |
-| Aluminum Plate | 210mm*297mm*0.5mm | 1 |
+<font style="color:#000000;">然而，从人类使用石头制作箭头开始，到现在使用剪刀、钢锯制作生活用具，工具的进步并没有真正解放人类的创造力。因此，我们推出了 TOOCAA，旨在打破这一限制，释放人类的创造潜能。我们不想让任何一个创意因为缺乏合适的工具而被埋没。</font>
 
+<font style="color:#000000;">我们相信：工具也能像艺术品一样惊艳。</font>
 
+<font style="color:#000000;">TOOCAA 利用先进的激光和计算机技术，通过工业设计重新定义创造工具，让创作变得高效且安全。</font>
 
+<font style="color:#000000;">作为一款卓越的桌面级激光雕刻切割机，</font><font style="color:#000000;background-color:#FFFFFF;">TOOCAA 始终坚持以用户需求为核心，并将安全作为我们的首要任务。TOOCAA 拥有智能化的安全系统。结合了专利火焰检测技术、机身倾斜检测技术以及外罩开盖联锁技术，确保每一位用户在使用过程中的安全。对于学校和家庭用户，我们特别设计了 USB 儿童安全锁与可选的急停开关功能，简易操作的同时，保障了用户的使用安全。</font>
 
+<font style="color:#000000;background-color:#FFFFFF;">而 TOOCAA 的魅力，远不止于此。</font><font style="color:#000000;">智能外罩设计有效阻隔激光与烟尘，让您在享受高性能的同时，保持工作环境的清洁。我们还将贴心的元素融入简约的设计中，比如内置补光灯带，让您随时掌握机器的运行情况。此外，排烟系统能迅速排出机器工作过程中产生的烟雾，减少对工作环境的污染。</font>
+
+<font style="color:#000000;">在 TOOCAA 的世界里，我们追求技术的极致，更注重每位用户的使用安全。我们希望每一位使用 TOOCAA 的用户，都能深刻感受到我们对安全性的执着与坚守。</font>
+
+<font style="color:#000000;background-color:#FFFFFF;">创意，往往来源于生活中的一瞬火花。无论是产品外观的重新设计，还是从零开始的全新创作，</font><font style="color:#000000;">都是对智慧的考研与汗水的结晶。TOOCAA 珍视每一个创意，致力于帮助有创意想法的人们实现他们的梦想，因为 TOOCAA 为你的创意而造。</font>
