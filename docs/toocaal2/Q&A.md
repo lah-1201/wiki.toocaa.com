@@ -54,4 +54,4 @@
 - [FTDI 驱动](https://ftdichip.com/drivers/vcp-drivers/)  
 
 或者联系我们的技术支持，邮箱：  
-[**support@toocaa.com**](mailto:support@toocaa.com)
+[**support@toocaa.com**](support@toocaa.com)
