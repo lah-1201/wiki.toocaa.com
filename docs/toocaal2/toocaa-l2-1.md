@@ -1,7 +1,7 @@
 # Unpacking Inspection
 ![](http://wiki-toocaa.oss-cn-hongkong.aliyuncs.com/1212.png)
 
-# Consumable Parts Pack list
+## Consumable Parts Pack list
 | Type | Size | Quantity |
 | :---: | :---: | :---: |
 | Linden Wood Board | 210mm*297mm*3mm  | 1 |
